@@ -12,3 +12,5 @@ https://kray306090.github.io/horiseon-refactor/
 
 ## Contribution
 Made with ❤️ by Kennadee Ray
+
+### &copy2019 Run Buddy, Inc
